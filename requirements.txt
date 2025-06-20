@@ -5,3 +5,4 @@ matplotlib==3.7.1
 plotly==5.13.1
 numpy==2.3.0
 setuptools
+pillow>=10.0.0
